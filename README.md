@@ -106,7 +106,7 @@ Access the Azure portal and search for **Entra ID**.
 - Understanding of workload identities and their applications.
 - Troubleshooting Azure permissions and access issues.
 
-This project demonstrates hands-on proficiency in securing application access using Azure Workload Identity and can be added as a portfolio project.
+
 
 
 
